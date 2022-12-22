@@ -111,6 +111,21 @@
 .container .main header.header__one {
   background: url(../image/img\ 1.jpg) no-repeat top center/cover;
 }
+.container .main header.header__two {
+  background: url(../image/img\ 2.jpg) no-repeat top center/cover;
+}
+.container .main header.header__three {
+  background: url(../image/img\ 3.jpg) no-repeat top center/cover;
+}
+.container .main header.header__four {
+  background: url(../image/img\ 4.jpg) no-repeat top center/cover;
+}
+.container .main header.header__five {
+  background: url(../image/img\ 5.jpg) no-repeat top center/cover;
+}
+.container .main header.header__six {
+  background: url(../image/img\ 6.jpg) no-repeat top center/cover;
+}
 .container .main header .header {
   position: absolute;
   width: 100%;
